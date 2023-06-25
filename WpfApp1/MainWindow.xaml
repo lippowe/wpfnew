@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <TextBlock Text="данил лох" FontSize='100' HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <TextBlock Text="макс (я) лох" FontSize='100' HorizontalAlignment="Center" VerticalAlignment="Center"/>
     </Grid>
 </Window>
